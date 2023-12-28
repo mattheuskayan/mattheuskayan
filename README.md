@@ -1,6 +1,6 @@
 ## Olá! Eu sou Matheus Kayan 👋
 
-- 🔭 Hoje trabalho como Ánalista Sócietario em Contabilidade
+- 🔭 Hoje trabalho como Analista Societário em Contabilidade
 - 🌱 Atualmente estudo ADS e Dev Front-End 
 - 🚩 Tenho como objetivo dominar a Tecnologia haha!
 - ⚡ Curiosidade sobre mim: Produzo Música hehe!
