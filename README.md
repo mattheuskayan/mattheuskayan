@@ -1,9 +1,9 @@
 ## Olá! Eu sou Matheus Kayan 👋
 
-- 🔭 Hoje trabalho como Analista Societário em Contabilidade
-- 🌱 Atualmente estudo ADS e Dev Front-End 
-- 🚩 Tenho como objetivo dominar a Tecnologia haha!
-- ⚡ Curiosidade sobre mim: Produzo Música hehe!
+- 🔭 Hoje trabalho na Contabilidade como Analista Societário
+- 🌱 Atualmente estudando ADS e Dev Front-End 
+- 🚩 Tenho como objetivo dominar e trabalhar com Tecnologia
+- ⚡ Hobbies: Produção Musical hehe!
 
 <br><div align="left">
 <a href="https://github.com/mattheuskayan">
