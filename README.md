@@ -1,8 +1,9 @@
 ## Olá! Eu sou Matheus Kayan 👋
 
-- 🔭 Atualmente fora do mercado, trabalhando com Contabilidade.
-- 🌱 Graduando de ADS e estudando Dev Front-End.
-- 🚩 Tenho como objetivo dominar e trabalhar com Tecnologia.
+- 🔭 Atualmente fora do mercado Tech.
+- 💼 Empregado no segmento da Contabilidade.
+- 🌱 Lecionando em ADS e Desenv. Front-End.
+- 🚩 Tenho como objetivo Dominar e Trabalhar com Tecnologia.
 - ⚡ Hobbies: Produção Musical hehe!
 
 <br><div align="left">
