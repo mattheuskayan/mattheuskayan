@@ -1,6 +1,6 @@
 ## Olá! Eu sou Matheus Kayan 👋 
 
-Comecei no mundo Tech com estudos em Dev. Web Front End, e depois de tempo passei a ter um entusiasmo por Cibersegurança, hoje atualmente estudo Pentest pela HTB Academy e em busca da minha primeira oportunidade profissional na área.
+Comecei no mundo Tech com estudos em Dev. Web Front End, e depois de um tempo passei a ter um entusiasmo por Cibersegurança, hoje atualmente estudo Pentest pela HTB Academy e em busca da minha primeira oportunidade profissional na área.
 
 ---
 
